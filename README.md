@@ -124,14 +124,6 @@ An intelligent conversational full-stack assistant engine built using TypeScript
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanya1005&theme=tokyonight"/>
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitanya1005&theme=tokyonight"/>
 
-</div>
-# Problem Solving Analytics
-
-<div align="center">
-
-<img height="160em" src="https://leetcode-stats-six.vercel.app/?username=Chaitanya1005&theme=dark" alt="LeetCode Stats"/>
-
-</div>
 ---
 
 # Core Focus Vectors
