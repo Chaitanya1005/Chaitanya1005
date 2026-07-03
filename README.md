@@ -7,7 +7,7 @@
 <a href="https://github.com/Chaitanya1005">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:chaitanya.thakkar.1005@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -51,26 +51,6 @@ My focus centers on translating complex operational challenges into reliable, pr
 ---
 
 # Featured Projects
-
-<details>
-<summary><b>🏥 SevaKey — Digital Health Record Orchestration</b></summary>
-
-### Overview
-A startup healthcare application engineered to digitize patient medical histories and automate clinical documentation pipelines for medical practitioners.
-
-| Layer | Implementation Details |
-| :--- | :--- |
-| **Core Architecture** | React, Node.js, Express, MongoDB |
-| **Security Focus** | Data Privacy Frameworks & Strict Access Controls |
-| **Key Capability** | Automated Document Pipelines & Structured Clinical Records |
-
-### Implementation Highlights
-* Digitized medical history schemas optimizing retrieval latencies.
-* Secure multi-role access validation pipelines to maintain data integrity.
-* Streamlined frontend state management for rapid provider documentation.
-
-**Repository:** [github.com/Chaitanya1005/SevaKey](https://github.com/Chaitanya1005/SevaKey)
-</details>
 
 <details>
 <summary><b>⚡ Flash Me Up — Automated Media Parsing Pipeline</b></summary>
@@ -141,8 +121,8 @@ An intelligent conversational full-stack assistant engine built using TypeScript
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaitanya1005&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya1005&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Chaitanya1005&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Chaitanya1005&layout=compact&theme=tokyonight"/>
 
 </div>
 
