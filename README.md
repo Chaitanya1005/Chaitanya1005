@@ -121,8 +121,8 @@ An intelligent conversational full-stack assistant engine built using TypeScript
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Chaitanya1005&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Chaitanya1005&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanya1005&theme=tokyonight"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitanya1005&theme=tokyonight"/>
 
 </div>
 
